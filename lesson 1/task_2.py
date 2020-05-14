@@ -1,5 +1,4 @@
-# https://drive.google.com/file/d/18Hwc3eLoHnwHlCKaTvTiBt8YqsLo-8UZ/view?usp=sharing
-
+# https://drive.google.com/file/d/1yB3GEIhW7AtHySzRILR9CJCokUHpmYru/view?usp=sharing
 # Выполнить логические побитовые операции «И», «ИЛИ» и др. над числами 5 и 6.
 # Выполнить над числом 5 побитовый сдвиг вправо и влево на два знака
 

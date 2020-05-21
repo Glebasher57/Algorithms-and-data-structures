@@ -11,11 +11,7 @@ first = 1
 result = 1
 
 while count > 0:
-    if first > 0:
-        first /= -2
-    else:
-        first = abs(first)
-        first /= 2
+    first /= -2
     result += first
     count -= 1
 
